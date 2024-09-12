@@ -1,5 +1,5 @@
 ### Greetings!
 
-I am Yicheng Chen, currently a third-year graduate student at the School of Automation Science and Electrical Engineering, Beihang University. My research insterests include mobile robotics, optimization, and machine learning.
+I am Yicheng Chen, passionate about mobile robotics, with an M.Sc. from Beihang University.
 
-🔭 Welcome to visit [my homepage](https://amos-chen98.github.io/) to know more about me.
+🔭 Welcome to visit [my homepage](https://amos-chen98.github.io/) to learn more about me.
