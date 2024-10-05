@@ -1,5 +1,5 @@
 ### Greetings!
 
-I am Yicheng Chen, passionate about mobile robotics, with an M.Sc. from Beihang University.
+I am Yicheng Chen, currently a PhD student at the [DRAGON Lab](http://www.dragon.t.u-tokyo.ac.jp/), The University of Tokyo.
 
-🔭 Welcome to visit [my homepage](https://amos-chen98.github.io/) to learn more about me.
+🔭 Welcome to visit [my homepage](https://yichengchen.com/) to learn more about me.
